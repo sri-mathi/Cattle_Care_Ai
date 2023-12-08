@@ -5,7 +5,6 @@ import re
 from bardapi import Bard
 import os
 
-os.environ['_BARD_API_KEY']='cQh428X54s5SMvksRnD5NzVI-nfWyDTw_UxnVaqOTvUGIXRE-ciKTzjgsIg7UfHB_1YOMQ.'
 
 class Chatbot:
     def __init__(self):
