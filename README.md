@@ -1,4 +1,4 @@
-### Project Story
+# Project Story
 
 ## Inspiration
 Growing up in an agricultural background, we encountered challenges accessing veterinary care for cattle. The scarcity of hospitals, the distance to travel, and high doctor charges prompted us to address these pain points. Empathizing with farmers' needs, we envisioned an AI-driven solution.
